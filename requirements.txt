@@ -1,0 +1,2 @@
+streamlit
+torch==2.0
