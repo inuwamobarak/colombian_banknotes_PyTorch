@@ -21,8 +21,8 @@ def add_bg_from_local(image_file):
     )
 add_bg_from_local('images/bg2.jpg')    
 
-MODEL_PATH = 'https://drive.google.com/file/d/1Smm9ZSsv1gZJgoKft-YcFpsjhG5rZaS3/view?usp=share_link'
-LABELS_PATH = 'https://drive.google.com/file/d/1CU0_KIRA65vTK6MQABFCoGwBhwHMgQqf/view?usp=share_link'
+MODEL_PATH = 'cop_model.pt'
+LABELS_PATH = 'model_classes.txt'
 
 
 def load_image():
