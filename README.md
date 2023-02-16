@@ -5,6 +5,8 @@ The Colombian peso (sign: , with Col$. also being used to distinguish it from ot
 
 In this project, Deep learning algorithm is used to predict fake COP banknotes. The core library is PyTorch. Transfer learning was used to transfer weights from the ResNet series of pretrained models.
 
+![money-1292162_1280](https://user-images.githubusercontent.com/65142149/219290869-52cb20d9-f53f-4e7c-ae1c-8e9103f2b907.jpg)
+
 # About the dataset
 **Description**
 The dataset can be used to check for the detection of denominations and counterfeits in banknotes.
